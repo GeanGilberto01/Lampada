@@ -1,0 +1,17 @@
+body{
+    background-color: lightgrey;
+}
+    
+h1{
+    max-width: 685px;
+    color: darkblue;
+}
+
+#img{
+    margin-bottom: 20px;
+    border: thin solid black;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin-inline-start: 2.5cm;
+}
